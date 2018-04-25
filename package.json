@@ -1,6 +1,6 @@
 {
-    "name": "@tslib/types_mongodb",
-    "version": "1.0.1",
+    "name": "@tslib_types/mongodb",
+    "version": "1.0.2",
     "main": "index.js",
     "repository": "https://github.com/mm-ts-lib/types_mongodb",
     "author": "zhufeng <zhfjyq@163.com>",
