@@ -1,2 +1,7 @@
-# types_mongodb
-new types defined from mongodb
+# Installation
+> `npm install --save @tslib/types_mongodb`
+
+# Summary
+
+updated  typescript define for mongodb
+
